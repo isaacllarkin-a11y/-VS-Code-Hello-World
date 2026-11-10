@@ -1,1 +1,2 @@
 Once upon a time, in a land of code, a new story began
+The story was learning Vscode and Github in 2026
